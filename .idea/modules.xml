@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pycad.iml" filepath="$PROJECT_DIR$/.idea/pycad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/RobotParts.iml" filepath="$PROJECT_DIR$/.idea/RobotParts.iml" />
     </modules>
   </component>
 </project>
