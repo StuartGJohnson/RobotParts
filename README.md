@@ -23,6 +23,9 @@ All usage is by running unit tests (see the code). I have installed cadquery via
 
 `cadquery` installation was initially a challenge as I had a conda base install based on an old python version (3.8). I believe this was caused by an Ubuntu 20.04 to 22.04 upgrade. This caused infinite churn in conda's dependency management ("Solving Environment"). GPT4o had a great suggestion of introducing a new conda python env (based on python 3.10) for dependency management (and install of mamba). `cadquery` install was very quick after this.
 
+See also:
+- [environment.yml](environment.yml)
+
 ## Credit/References
 
 - [cadquery](https://github.com/CadQuery/cadquery)
