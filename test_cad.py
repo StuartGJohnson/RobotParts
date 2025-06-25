@@ -17,7 +17,7 @@ class MyTestCase(unittest.TestCase):
         part = part.cut(voids)
 
         # Export STL
-        cq.exporters.export(part, 'part.stl')
+        cq.exporters.export(part, 'tag_plate.stl')
 
 if __name__ == '__main__':
     unittest.main()

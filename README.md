@@ -3,9 +3,11 @@ Miscellaneous robot parts - generated from known robot dimensions with cadquery 
 
 If you aren't a frequent CAD user, this is a lot faster than trying to get CAD SW to bend to your will!
 
-# Robot ARUCO tag mount plate.
+## Robot ARUCO tag mount plate.
 
-![part.stl](part.stl)
+[Aruco tag plate](tag_plate.stl)
+
+(GitHub has a very nice built-in STL viewer! But you gotta click that link.)
 
 First part! This part velcros to the top of the robot compute (an NVIDIA Orin AGX) and allows connection of an Aruco tag via M3 standoffs (to get the tag above the Lidar). More adjustments will follow after inspection of the part (my first 3d printed part).
 
