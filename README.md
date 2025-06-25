@@ -1,7 +1,17 @@
 # RobotParts
 Miscellaneous robot parts - generated from known robot dimensions with cadquery in python. Likely I will upload the robot XACRO here as well. Note that since these robot parts are highly correlated with the robot itself (which is generated from scratch from geometric primitives), it makes a lot of sense that these parts are generated from geometric primitives.
 
-This is a lot faster than trying to get CAD SW to bend to your will!
+If you aren't a frequent CAD user, this is a lot faster than trying to get CAD SW to bend to your will!
+
+# Robot ARUCO tag mount plate.
+
+![part.stl](part.stl)
+
+First part! This part velcros to the top of the robot compute (an NVIDIA Orin AGX) and allows connection of an Aruco tag via M3 standoffs (to get the tag above the Lidar). More adjustments will follow after inspection of the part (my first 3d printed part).
+
+First cut part print was from:
+
+[craftcloud](https://craftcloud3d.com/)
 
 ## Usage
 
